@@ -1,5 +1,5 @@
 # Titanic_Survival_Analysis
-# Titanic Survival Analysis
+
 
 ## Project Overview
 This project explores the Titanic dataset using Python to identify the factors that influenced passenger survival. The analysis includes data cleaning, exploratory data analysis (EDA), and visualization of key insights.
@@ -9,7 +9,12 @@ This project explores the Titanic dataset using Python to identify the factors t
 - Pandas
 - NumPy
 - Matplotlib
-
+## Skills Demonstrated
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Manipulation
+- Python Programming
+- Data Interpretation                                                                                                            
 ## Objectives
 - Clean and prepare the dataset for analysis.
 - Explore passenger demographics and survival patterns.
